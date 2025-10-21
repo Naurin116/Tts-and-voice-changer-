@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# audio / models
+*.wav
+models/
+checkpoints/
+
+# system
+.DS_Store

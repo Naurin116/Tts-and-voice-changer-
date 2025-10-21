@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+torch           # install CPU or CUDA build appropriate to your machine
+TTS             # Coqui TTS - used as example (pip install TTS)
+numpy
+soundfile
+scipy
+librosa
